@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caiovac)](https://github.com/Caiovac/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Caiovac&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Caiovac/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiovac&hide_progress=true)](https://github.com/Caiovac/github-readme-stats)
+
+<div style="display: inline_block">
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</div>       
 <!--
 **Caiovac/Caiovac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
